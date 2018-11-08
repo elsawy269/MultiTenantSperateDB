@@ -1,0 +1,14 @@
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.csprojAssemblyReference.cache
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.csproj.CoreCompileInputs.cache
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.RazorAssemblyInfo.cache
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.RazorAssemblyInfo.cs
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.AssemblyInfoInputs.cache
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.AssemblyInfo.cs
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\bin\Debug\netcoreapp2.1\EnterpriseSolution.deps.json
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\bin\Debug\netcoreapp2.1\EnterpriseSolution.runtimeconfig.json
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\bin\Debug\netcoreapp2.1\EnterpriseSolution.runtimeconfig.dev.json
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\bin\Debug\netcoreapp2.1\EnterpriseSolution.dll
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\bin\Debug\netcoreapp2.1\EnterpriseSolution.pdb
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.RazorTargetAssemblyInfo.cache
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.dll
+C:\MyWork\EnterpriseSolution\EnterpriseSolution\obj\Debug\netcoreapp2.1\EnterpriseSolution.pdb
